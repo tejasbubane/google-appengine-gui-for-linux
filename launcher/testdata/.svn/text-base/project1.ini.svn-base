@@ -1,0 +1,23 @@
+# A valid projects file.
+
+[2]
+path = /tmp/path with spaces/bar
+name = baz
+port = 8110
+
+[4]
+path = /tmp/bozo
+port = 8000
+name = bozo
+flag0 = --clowns-rule
+flag1 = --clownpath=c:/Program Files
+
+[3]
+path = /tmp/himom0 with spaces
+name = himom0 with spaces
+port = 8000
+
+[1]
+path = /tmp
+name = ook
+port = 8180
